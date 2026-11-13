@@ -1,7 +1,5 @@
 # AB Voice Translate — загрузки
 
-Официальный репозиторий выпусков Android-приложения **AB Voice Translate**.
-
 **Страница загрузки приложения:**
 
 https://ab3068.github.io/AB_VTR-download/
